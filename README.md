@@ -1,5 +1,5 @@
-# Programmer resources
-Link to sites that may be useful to a programmer, I found on my readings.
+# My Programming resources
+Link to sites that may be useful, I found on my readings.
 
 
 ## On being a programmer
@@ -21,3 +21,9 @@ Link to sites that may be useful to a programmer, I found on my readings.
 ## Others
 1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 
+## .Net stuff
+1. [Schedule Background Jobs Using Hangfire in .NET Core](https://codeburst.io/schedule-background-jobs-using-hangfire-in-net-core-2d98eb64b196)
+2. [Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/dotnet-architecture/eShopOnWeb)
+
+## Flutter stuff
+1. [Flutter](https://flutter.dev)
