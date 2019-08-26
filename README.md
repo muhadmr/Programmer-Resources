@@ -18,6 +18,10 @@ Link to sites that may be useful, I found on my readings.
 
 ## News/Discussion
 1. [Indie Hackers](https://www.indiehackers.com/)
+
+## Free Books/Tutorial
+1. On developing software - [Getting Real](https://basecamp.com/books/getting-real)
+
 ## Others
 1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 
