@@ -9,6 +9,7 @@ Link to sites that may be useful, I found on my readings.
 # Learn/Upskill Programming
 1. [Codewars](https://www.codewars.com)
 2. [Cheatsheets](https://devhints.io/)
+3. [Asp.net core developer roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
 # Software Development
 1. [Design Patterns In C#](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/)
@@ -39,6 +40,7 @@ Link to sites that may be useful, I found on my readings.
 1. [Schedule Background Jobs Using Hangfire in .NET Core](https://codeburst.io/schedule-background-jobs-using-hangfire-in-net-core-2d98eb64b196)
 2. [Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/dotnet-architecture/eShopOnWeb)
 3. [Full Modular Monolith .NET application with Domain-Driven Design approach.](https://github.com/kgrzybek/modular-monolith-with-ddd#11-Purpose-of-this-repository)
+4. [Awesome dot net core resources](https://github.com/thangchung/awesome-dotnet-core)
 
 ## Flutter stuff
 1. [Flutter](https://flutter.dev)
