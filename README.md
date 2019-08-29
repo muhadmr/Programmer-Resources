@@ -11,8 +11,10 @@ Link to sites that may be useful, I found on my readings.
 2. [Cheatsheets](https://devhints.io/)
 3. [Asp.net core developer roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
-# Software Development
+# Software Development/Engineering
 1. [Design Patterns In C#](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/)
+2. [SOLID - Single Responsibility Principle (C#)](https://www.dotnetcurry.com/software-gardening/1148/solid-single-responsibility-principle)
+
 
 ## Life
 1. [16 Things Everybody Should Stop Doing In Order To Be Successful.](https://medium.com/@parkernash/16-things-everybody-should-stop-doing-in-order-to-be-successful-18be67a70a2c)
