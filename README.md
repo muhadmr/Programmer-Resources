@@ -46,3 +46,5 @@ Link to sites that may be useful, I found on my readings.
 
 ## Flutter stuff
 1. [Flutter](https://flutter.dev)
+2. [Awesome Flutter resources](https://github.com/Solido/awesome-flutter)
+3. [Flutter course resources](https://github.com/londonappbrewery/Flutter-Course-Resources)
