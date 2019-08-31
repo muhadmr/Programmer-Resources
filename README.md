@@ -28,6 +28,7 @@ Link to sites that may be useful, I found on my readings.
 1. [ShopBack Co-founder Samantha Soh's guide to building excellent UX design](https://e27.co/shopback-co-founder-samantha-sohs-guide-building-excellent-ux-design-20181031/)
 2. [JUST ENTER A COLOR! And Generate nice Color Palettes](https://mycolor.space)
 3. [Awesome design tools](https://github.com/phh95/Awesome-design-tools)
+4. [Font Awesome](https://fontawesome.com/v4.7.0/icons/)
 
 ## News/Discussion
 1. [Indie Hackers](https://www.indiehackers.com/)
