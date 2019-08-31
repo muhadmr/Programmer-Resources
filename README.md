@@ -14,7 +14,7 @@ Link to sites that may be useful, I found on my readings.
 # Software Development/Engineering
 1. [Design Patterns In C#](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/)
 2. [SOLID - Single Responsibility Principle (C#)](https://www.dotnetcurry.com/software-gardening/1148/solid-single-responsibility-principle)
-
+3. [SOLID - Open Close Principle](https://www.dotnetcurry.com/software-gardening/1176/solid-open-closed-principle)
 
 ## Life
 1. [16 Things Everybody Should Stop Doing In Order To Be Successful.](https://medium.com/@parkernash/16-things-everybody-should-stop-doing-in-order-to-be-successful-18be67a70a2c)
@@ -44,7 +44,9 @@ Link to sites that may be useful, I found on my readings.
 3. [Full Modular Monolith .NET application with Domain-Driven Design approach.](https://github.com/kgrzybek/modular-monolith-with-ddd#11-Purpose-of-this-repository)
 4. [Awesome dot net core resources](https://github.com/thangchung/awesome-dotnet-core)
 
-## Flutter stuff
+## Flutter/Dart stuff
 1. [Flutter](https://flutter.dev)
 2. [Awesome Flutter resources](https://github.com/Solido/awesome-flutter)
 3. [Flutter course resources](https://github.com/londonappbrewery/Flutter-Course-Resources)
+4. [Dartpad](https://dartpad.dartlang.org/)
+5. [Learn Dart In A Week With These Free Resources](https://hackernoon.com/learn-dart-in-a-week-with-these-free-resources-b892e5265220)
