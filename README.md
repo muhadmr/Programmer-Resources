@@ -51,3 +51,4 @@ Link to sites that may be useful, I found on my readings.
 3. [Flutter course resources](https://github.com/londonappbrewery/Flutter-Course-Resources)
 4. [Dartpad](https://dartpad.dartlang.org/)
 5. [Learn Dart In A Week With These Free Resources](https://hackernoon.com/learn-dart-in-a-week-with-these-free-resources-b892e5265220)
+6. [Beautiful sample app -BMI Calculator](https://fidev.io/bmi-calculator-gender/)
