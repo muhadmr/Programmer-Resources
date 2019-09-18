@@ -30,6 +30,7 @@ Link to sites that may be useful, I found on my readings.
 2. [JUST ENTER A COLOR! And Generate nice Color Palettes](https://mycolor.space)
 3. [Awesome design tools](https://github.com/phh95/Awesome-design-tools)
 4. [Font Awesome](https://fontawesome.com/v4.7.0/icons/)
+5. [Color tools for designers](https://medium.muz.li/color-tools-for-designers-2019-6ebd77a94ab) 
 
 ## News/Discussion
 1. [Indie Hackers](https://www.indiehackers.com/)
