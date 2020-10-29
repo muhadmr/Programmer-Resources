@@ -13,19 +13,25 @@ Link to sites that may be useful, I found on my readings.
 2. [Cheatsheets](https://devhints.io/)
 3. [Asp.net core developer roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 4. [50 quotes for better coding](https://codeburst.io/50-quotes-for-better-coding-76bdac3fc234)
+5. [20 Tips To Write Clean C# Code] - (https://www.codewithmukesh.com/blog/write-clean-csharp-code/)
 
 # Software Development/Engineering
 1. [Design Patterns In C#](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/)
 2. [SOLID - Single Responsibility Principle (C#)](https://www.dotnetcurry.com/software-gardening/1148/solid-single-responsibility-principle)
 3. [SOLID - Open Close Principle](https://www.dotnetcurry.com/software-gardening/1176/solid-open-closed-principle)
 
+# Software Development Blog
+1. [The Valuable Dev] (https://thevaluable.dev/)
+
 ## Life
 1. [16 Things Everybody Should Stop Doing In Order To Be Successful.](https://medium.com/@parkernash/16-things-everybody-should-stop-doing-in-order-to-be-successful-18be67a70a2c)
+2. [Here are the 50 ideas that changed my life.] (https://www.perell.com/blog/50-ideas-that-changed-my-life)
 
 ## Tools / Free
 1. [Free Tools and Resources to Help Build Your Web App](https://www.indiehackers.com/@jonny/free-tools-and-resources-to-help-build-your-web-app-3331c5aab2)
 2. [50 Best Free Dashboard UI Kits and Templates in 2019](https://uxplanet.org/top-50-dashboard-ui-kits-and-templates-in-2019-8583e41b775d)
 3. [Free SSL/TLS Certificate](https://letsencrypt.org/). Also, for IIS - [How to install a Let’s Encrypt SSL cert on Microsoft IIS](https://miketabor.com/how-to-install-a-lets-encrypt-ssl-cert-on-microsoft-iis/)
+4. [Mocking Data Tool - Mockaroo] (https://www.mockaroo.com/)
 
 ## UI/UX/Design/Color
 1. [ShopBack Co-founder Samantha Soh's guide to building excellent UX design](https://e27.co/shopback-co-founder-samantha-sohs-guide-building-excellent-ux-design-20181031/)
