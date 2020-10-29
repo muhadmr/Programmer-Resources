@@ -7,13 +7,13 @@ Link to sites that may be useful, I found on my readings.
 3. [How to think like a programmer — lessons in problem solving](https://medium.com/free-code-camp/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 4. [Letters to A new developer](https://letterstoanewdeveloper.com)
 5. [12 Practices That Make You a Good Programmer](https://dzone.com/articles/13-practices-that-make-you-a-good-programmer?edition=521345&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202019-09-25)
+6. [50 quotes for better coding](https://codeburst.io/50-quotes-for-better-coding-76bdac3fc234)
 
 # Learn/Upskill Programming
 1. [Codewars](https://www.codewars.com)
 2. [Cheatsheets](https://devhints.io/)
 3. [Asp.net core developer roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
-4. [50 quotes for better coding](https://codeburst.io/50-quotes-for-better-coding-76bdac3fc234)
-5. [20 Tips To Write Clean C# Code] - (https://www.codewithmukesh.com/blog/write-clean-csharp-code/)
+4. [20 Tips To Write Clean C# Code](https://www.codewithmukesh.com/blog/write-clean-csharp-code/)
 
 # Software Development/Engineering
 1. [Design Patterns In C#](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/)
@@ -21,7 +21,7 @@ Link to sites that may be useful, I found on my readings.
 3. [SOLID - Open Close Principle](https://www.dotnetcurry.com/software-gardening/1176/solid-open-closed-principle)
 
 # Software Development Blog
-1. [The Valuable Dev] (https://thevaluable.dev/)
+1. [The Valuable Dev](https://thevaluable.dev/)
 
 ## Life
 1. [16 Things Everybody Should Stop Doing In Order To Be Successful.](https://medium.com/@parkernash/16-things-everybody-should-stop-doing-in-order-to-be-successful-18be67a70a2c)
