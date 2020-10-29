@@ -31,7 +31,7 @@ Link to sites that may be useful, I found on my readings.
 1. [Free Tools and Resources to Help Build Your Web App](https://www.indiehackers.com/@jonny/free-tools-and-resources-to-help-build-your-web-app-3331c5aab2)
 2. [50 Best Free Dashboard UI Kits and Templates in 2019](https://uxplanet.org/top-50-dashboard-ui-kits-and-templates-in-2019-8583e41b775d)
 3. [Free SSL/TLS Certificate](https://letsencrypt.org/). Also, for IIS - [How to install a Let’s Encrypt SSL cert on Microsoft IIS](https://miketabor.com/how-to-install-a-lets-encrypt-ssl-cert-on-microsoft-iis/)
-4. [Mocking Data Tool - Mockaroo] (https://www.mockaroo.com/)
+4. [Mocking Data Tool - Mockaroo](https://www.mockaroo.com/)
 
 ## UI/UX/Design/Color
 1. [ShopBack Co-founder Samantha Soh's guide to building excellent UX design](https://e27.co/shopback-co-founder-samantha-sohs-guide-building-excellent-ux-design-20181031/)
