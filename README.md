@@ -12,6 +12,7 @@ Link to sites that may be useful, I found on my readings.
 1. [Codewars](https://www.codewars.com)
 2. [Cheatsheets](https://devhints.io/)
 3. [Asp.net core developer roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+4. [50 quotes for better coding](https://codeburst.io/50-quotes-for-better-coding-76bdac3fc234)
 
 # Software Development/Engineering
 1. [Design Patterns In C#](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/)
