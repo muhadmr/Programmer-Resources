@@ -14,6 +14,7 @@ Link to sites that may be useful, I found on my readings.
 2. [Cheatsheets](https://devhints.io/)
 3. [Asp.net core developer roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 4. [20 Tips To Write Clean C# Code](https://www.codewithmukesh.com/blog/write-clean-csharp-code/)
+5. [10 Coding Principles](https://towardsdatascience.com/10-coding-principles-that-no-one-will-teach-you-37d64b5081ef)
 
 # Software Development/Engineering
 1. [Design Patterns In C#](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/)
