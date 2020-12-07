@@ -24,6 +24,10 @@ Link to sites that may be useful, I found on my readings.
 # Software Development Blog
 1. [The Valuable Dev](https://thevaluable.dev/)
 
+# Standards/Best practices
+1. [C# Coding guidelines](https://csharpcodingguidelines.com/)
+2. [ALM Practices every developer should know about](https://www.continuousimprover.com/2011/02/alm-practices-every-developer-should.html) ALM stands for Application Lifecycle Management
+
 ## Life
 1. [16 Things Everybody Should Stop Doing In Order To Be Successful.](https://medium.com/@parkernash/16-things-everybody-should-stop-doing-in-order-to-be-successful-18be67a70a2c)
 2. [Here are the 50 ideas that changed my life.] (https://www.perell.com/blog/50-ideas-that-changed-my-life)
