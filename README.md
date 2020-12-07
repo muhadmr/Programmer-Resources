@@ -30,7 +30,7 @@ Link to sites that may be useful, I found on my readings.
 
 ## Life
 1. [16 Things Everybody Should Stop Doing In Order To Be Successful.](https://medium.com/@parkernash/16-things-everybody-should-stop-doing-in-order-to-be-successful-18be67a70a2c)
-2. [Here are the 50 ideas that changed my life.] (https://www.perell.com/blog/50-ideas-that-changed-my-life)
+2. [Here are the 50 ideas that changed my life.](https://www.perell.com/blog/50-ideas-that-changed-my-life)
 
 ## Tools / Free
 1. [Free Tools and Resources to Help Build Your Web App](https://www.indiehackers.com/@jonny/free-tools-and-resources-to-help-build-your-web-app-3331c5aab2)
