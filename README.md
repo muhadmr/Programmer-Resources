@@ -25,6 +25,7 @@ Link to sites that may be useful, I found on my readings.
 1. [The Valuable Dev](https://thevaluable.dev/)
 2. [hashnode](https://hashnode.com)
 3. [hackernews](https://news.ycombinator.com)
+4. [Indie Hackers](https://www.indiehackers.com/)
 
 # Standards/Best practices
 1. [C# Coding guidelines](https://csharpcodingguidelines.com/)
@@ -48,9 +49,6 @@ Link to sites that may be useful, I found on my readings.
 3. [Awesome design tools](https://github.com/phh95/Awesome-design-tools)
 4. [Font Awesome](https://fontawesome.com/v4.7.0/icons/)
 5. [Color tools for designers](https://medium.muz.li/color-tools-for-designers-2019-6ebd77a94ab) 
-
-## News/Discussion
-1. [Indie Hackers](https://www.indiehackers.com/)
 
 ## Books/Tutorials/Cheatsheets
 1. On developing software - [Getting Real](https://basecamp.com/books/getting-real)
