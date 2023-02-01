@@ -21,12 +21,16 @@ Link to sites that may be useful, I found on my readings.
 2. [SOLID - Single Responsibility Principle (C#)](https://www.dotnetcurry.com/software-gardening/1148/solid-single-responsibility-principle)
 3. [SOLID - Open Close Principle](https://www.dotnetcurry.com/software-gardening/1176/solid-open-closed-principle)
 
-# Software Development Blog
+
+# Software Development Blogs / Communities / News
 1. [The Valuable Dev](https://thevaluable.dev/)
+2. [hashnode] (https://hashnode.com)
+3. [hackernews] (https://news.ycombinator.com)
 
 # Standards/Best practices
 1. [C# Coding guidelines](https://csharpcodingguidelines.com/)
 2. [ALM Practices every developer should know about](https://www.continuousimprover.com/2011/02/alm-practices-every-developer-should.html) ALM stands for Application Lifecycle Management
+3. [The Ultimate Guide To Software Architecture Documentation] (https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
 
 ## Life
 1. [16 Things Everybody Should Stop Doing In Order To Be Successful.](https://medium.com/@parkernash/16-things-everybody-should-stop-doing-in-order-to-be-successful-18be67a70a2c)
@@ -49,18 +53,19 @@ Link to sites that may be useful, I found on my readings.
 ## News/Discussion
 1. [Indie Hackers](https://www.indiehackers.com/)
 
-## Books/Tutorial
+## Books/Tutorials/Cheatsheets
 1. On developing software - [Getting Real](https://basecamp.com/books/getting-real)
 2. [The list of top 10 greatest software development books](https://dzone.com/articles/the-greatest-software-development-books-of-all-tim)
-
-## Others
-1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+3. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 
 ## .Net stuff
 1. [Schedule Background Jobs Using Hangfire in .NET Core](https://codeburst.io/schedule-background-jobs-using-hangfire-in-net-core-2d98eb64b196)
 2. [Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/dotnet-architecture/eShopOnWeb)
 3. [Full Modular Monolith .NET application with Domain-Driven Design approach.](https://github.com/kgrzybek/modular-monolith-with-ddd#11-Purpose-of-this-repository)
 4. [Awesome dot net core resources](https://github.com/thangchung/awesome-dotnet-core)
+5. [.Net Boilerplate framework] (https://fullstackhero.net/)
+6. [Alternative to AutoMapper - faster] (https://github.com/MapsterMapper/Mapster)
+7. [Wrapper for http response - AutoWrapper] (https://github.com/proudmonkey/AutoWrapper)
 
 ## Flutter/Dart stuff
 1. [Flutter](https://flutter.dev)
