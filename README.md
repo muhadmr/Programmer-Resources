@@ -61,8 +61,9 @@ Link to sites that may be useful, I found on my readings.
 3. [Full Modular Monolith .NET application with Domain-Driven Design approach.](https://github.com/kgrzybek/modular-monolith-with-ddd#11-Purpose-of-this-repository)
 4. [Awesome dot net core resources](https://github.com/thangchung/awesome-dotnet-core)
 5. [.Net Boilerplate framework](https://fullstackhero.net/)
-6. [Alternative to AutoMapper - faster](https://github.com/MapsterMapper/Mapster)
+6. [Mapster - Alternative to AutoMapper](https://github.com/MapsterMapper/Mapster)
 7. [Wrapper for http response - AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
+8. [Another API boilerplate](https://github.com/proudmonkey/ApiBoilerPlate)
 
 ## Flutter/Dart stuff
 1. [Flutter](https://flutter.dev)
