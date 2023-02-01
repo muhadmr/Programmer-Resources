@@ -21,7 +21,6 @@ Link to sites that may be useful, I found on my readings.
 2. [SOLID - Single Responsibility Principle (C#)](https://www.dotnetcurry.com/software-gardening/1148/solid-single-responsibility-principle)
 3. [SOLID - Open Close Principle](https://www.dotnetcurry.com/software-gardening/1176/solid-open-closed-principle)
 
-
 # Software Development Blogs / Communities / News
 1. [The Valuable Dev](https://thevaluable.dev/)
 2. [hashnode](https://hashnode.com)
@@ -30,7 +29,7 @@ Link to sites that may be useful, I found on my readings.
 # Standards/Best practices
 1. [C# Coding guidelines](https://csharpcodingguidelines.com/)
 2. [ALM Practices every developer should know about](https://www.continuousimprover.com/2011/02/alm-practices-every-developer-should.html) ALM stands for Application Lifecycle Management
-3. [The Ultimate Guide To Software Architecture Documentation] (https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
+3. [The Ultimate Guide To Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
 
 ## Life
 1. [16 Things Everybody Should Stop Doing In Order To Be Successful.](https://medium.com/@parkernash/16-things-everybody-should-stop-doing-in-order-to-be-successful-18be67a70a2c)
