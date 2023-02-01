@@ -24,8 +24,8 @@ Link to sites that may be useful, I found on my readings.
 
 # Software Development Blogs / Communities / News
 1. [The Valuable Dev](https://thevaluable.dev/)
-2. [hashnode] (https://hashnode.com)
-3. [hackernews] (https://news.ycombinator.com)
+2. [hashnode](https://hashnode.com)
+3. [hackernews](https://news.ycombinator.com)
 
 # Standards/Best practices
 1. [C# Coding guidelines](https://csharpcodingguidelines.com/)
@@ -63,9 +63,9 @@ Link to sites that may be useful, I found on my readings.
 2. [Microsoft eShopOnWeb ASP.NET Core Reference Application](https://github.com/dotnet-architecture/eShopOnWeb)
 3. [Full Modular Monolith .NET application with Domain-Driven Design approach.](https://github.com/kgrzybek/modular-monolith-with-ddd#11-Purpose-of-this-repository)
 4. [Awesome dot net core resources](https://github.com/thangchung/awesome-dotnet-core)
-5. [.Net Boilerplate framework] (https://fullstackhero.net/)
-6. [Alternative to AutoMapper - faster] (https://github.com/MapsterMapper/Mapster)
-7. [Wrapper for http response - AutoWrapper] (https://github.com/proudmonkey/AutoWrapper)
+5. [.Net Boilerplate framework](https://fullstackhero.net/)
+6. [Alternative to AutoMapper - faster](https://github.com/MapsterMapper/Mapster)
+7. [Wrapper for http response - AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
 
 ## Flutter/Dart stuff
 1. [Flutter](https://flutter.dev)
