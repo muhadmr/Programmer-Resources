@@ -77,3 +77,8 @@ Link to sites that may be useful, I found on my readings.
 
 ## SQL
 1. [CTE -Common Table Expression](https://learnsql.com/blog/cte-with-examples/)
+
+
+## AI
+1. [Series of lectures - Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+
