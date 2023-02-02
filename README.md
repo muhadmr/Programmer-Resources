@@ -65,6 +65,7 @@ Link to sites that may be useful, I found on my readings.
 6. [Mapster - Alternative to AutoMapper](https://github.com/MapsterMapper/Mapster)
 7. [Wrapper for http response - AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
 8. [Another API boilerplate](https://github.com/proudmonkey/ApiBoilerPlate)
+9. [Practical ASP.Net Core Examples](https://github.com/dodyg/practical-aspnetcore)
 
 ## Flutter/Dart stuff
 1. [Flutter](https://flutter.dev)
