@@ -16,10 +16,11 @@ Link to sites that may be useful, I found on my readings.
 4. [20 Tips To Write Clean C# Code](https://www.codewithmukesh.com/blog/write-clean-csharp-code/)
 5. [10 Coding Principles](https://towardsdatascience.com/10-coding-principles-that-no-one-will-teach-you-37d64b5081ef)
 
-# Software Development/Engineering
+# Software Engineering
 1. [Design Patterns In C#](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/)
 2. [SOLID - Single Responsibility Principle (C#)](https://www.dotnetcurry.com/software-gardening/1148/solid-single-responsibility-principle)
 3. [SOLID - Open Close Principle](https://www.dotnetcurry.com/software-gardening/1176/solid-open-closed-principle)
+4. [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) - ![](https://raw.githubusercontent.com/Sairyss/domain-driven-hexagon/master/assets/images/DomainDrivenHexagon.png "Domain Driven Hexagon")
 
 # Software Development Blogs / Communities / News
 1. [The Valuable Dev](https://thevaluable.dev/)
