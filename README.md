@@ -27,6 +27,8 @@ Link to sites that may be useful, I found on my readings.
 2. [hashnode](https://hashnode.com)
 3. [hackernews](https://news.ycombinator.com)
 4. [Indie Hackers](https://www.indiehackers.com/)
+5. [The Reformed Programmer](https://www.thereformedprogrammer.net/) (.Net)
+6. [The Morning Dew](https://www.alvinashcraft.com/) (.Net)
 
 # Standards/Best practices
 1. [C# Coding guidelines](https://csharpcodingguidelines.com/)
