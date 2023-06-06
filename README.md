@@ -3,7 +3,7 @@ Link to sites that may be useful, I found on my readings.
 
 ## On being a programmer
 1. [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
-2. [Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/)
+2. [Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/)
 3. [How to think like a programmer — lessons in problem solving](https://medium.com/free-code-camp/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 4. [Letters to A new developer](https://letterstoanewdeveloper.com)
 5. [12 Practices That Make You a Good Programmer](https://dzone.com/articles/13-practices-that-make-you-a-good-programmer?edition=521345&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202019-09-25)
