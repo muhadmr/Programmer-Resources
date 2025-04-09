@@ -8,6 +8,7 @@ Link to sites that may be useful, I found on my readings.
 4. [Letters to A new developer](https://letterstoanewdeveloper.com)
 5. [12 Practices That Make You a Good Programmer](https://dzone.com/articles/13-practices-that-make-you-a-good-programmer?edition=521345&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202019-09-25)
 6. [50 quotes for better coding](https://codeburst.io/50-quotes-for-better-coding-76bdac3fc234)
+7. [The Best Programmers I Know](https://archive.is/0GcBe#selection-207.0-207.27)
 
 # Learn/Upskill Programming
 1. [Codewars](https://www.codewars.com)
@@ -29,6 +30,7 @@ Link to sites that may be useful, I found on my readings.
 4. [Indie Hackers](https://www.indiehackers.com/)
 5. [The Reformed Programmer](https://www.thereformedprogrammer.net/) (.Net)
 6. [The Morning Dew](https://www.alvinashcraft.com/) (.Net)
+7. [The 13 software engineering laws](https://newsletter.manager.dev/p/the-13-software-engineering-laws)
 
 # Standards/Best practices
 1. [C# Coding guidelines](https://csharpcodingguidelines.com/)
