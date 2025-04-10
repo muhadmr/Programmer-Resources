@@ -31,6 +31,7 @@ Link to sites that may be useful, I found on my readings.
 5. [The Reformed Programmer](https://www.thereformedprogrammer.net/) (.Net)
 6. [The Morning Dew](https://www.alvinashcraft.com/) (.Net)
 7. [The 13 software engineering laws](https://newsletter.manager.dev/p/the-13-software-engineering-laws)
+8. [Manager Dev](https://newsletter.manager.dev/)
 
 # Standards/Best practices
 1. [C# Coding guidelines](https://csharpcodingguidelines.com/)
